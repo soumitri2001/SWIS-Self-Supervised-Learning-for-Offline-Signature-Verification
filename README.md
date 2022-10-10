@@ -17,5 +17,3 @@ If you find this article useful in your research, consider citing us:
     year = {2022}
 }
 ```
-
-**Code coming soon!**
