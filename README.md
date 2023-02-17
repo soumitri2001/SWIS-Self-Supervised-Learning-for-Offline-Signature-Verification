@@ -1,6 +1,6 @@
 ## SWIS: Self-Supervised Representation Learning For Writer Independent Offline Signature Verification, ICIP 2022 (Oral)
 
-Siladittya Manna, **Soumitri Chattopadhyay**, Saumik Bhattacharya and Umapada Pal, [**"SWIS: Self-Supervised Representation Learning For Writer Independent Offline Signature Verification"**](https://arxiv.org/abs/2202.13078), _IEEE International Conference in Image Processing_ **(ICIP)**, 2022.
+Siladittya Manna, **Soumitri Chattopadhyay**, Saumik Bhattacharya and Umapada Pal, [**"SWIS: Self-Supervised Representation Learning For Writer Independent Offline Signature Verification"**](https://ieeexplore.ieee.org/document/9897562), _IEEE International Conference on Image Processing_ **(ICIP)**, 2022.
 
 ⚡ **Update:** Our paper has been selected for **Oral** presentation! ⚡
 
@@ -13,7 +13,7 @@ If you find this article useful in your research, consider citing us:
 @inproceedings{manna2022swis,
     author = {Siladittya Manna and Soumitri Chattopadhyay and Saumik Bhattacharya and Umapada Pal},
     title = {SWIS: Self-Supervised Representation Learning For Writer Independent Offline Signature Verification},
-    booktitle = {IEEE International Conference in Image Processing (ICIP)},
+    booktitle = {IEEE International Conference on Image Processing (ICIP)},
     year = {2022}
 }
 ```
